@@ -1,13 +1,13 @@
-SET rootDir="<ENTER YOUR FILE ROUTE HERE>\test"
+SET rootDir="<ENTER YOUR FILE ROUTE HERE>"
 
-cmd /c md "%rootDir%\modles"
-cmd /c md "%rootDir%\public"
-cmd /c md "%rootDir%\routes" 
-cmd /c md "%rootDir%\views" 
-cmd /c md "%rootDir%\public\css"
-cmd /c md "%rootDir%\public\js"
-cmd /c type nul > app.js
-cmd /c type nul > README.md
+CMD /C md "%rootDir%\modles"
+CMD /C md "%rootDir%\public"
+CMD /C md "%rootDir%\routes" 
+CMD /C md "%rootDir%\views" 
+CMD /C md "%rootDir%\public\css"
+CMD /C md "%rootDir%\public\js"
+CMD /C type nul > app.js
+CMD /C type nul > README.md
 
 
 

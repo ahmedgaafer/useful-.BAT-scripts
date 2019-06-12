@@ -1,1 +1,1 @@
-start cmd /k ping www.google.com -t
+START CMD /K ping www.google.com -t
