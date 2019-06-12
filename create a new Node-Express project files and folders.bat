@@ -1,4 +1,4 @@
-SET rootDir="<ENTER YOUR FILE ROUTE HERE>"
+SET rootDir="<ENTER YOUR FOLDER ROUTE HERE>"
 
 CMD /C md "%rootDir%\modles"
 CMD /C md "%rootDir%\public"
